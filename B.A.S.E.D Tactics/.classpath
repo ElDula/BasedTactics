@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="gamePackage/entidades/|gamePackage/entidades/acuaticas/|gamePackage/entidades/aereas/" kind="src" path="src"/>
+	<classpathentry excluding="acuaticas/|aereas/" kind="src" path="src/gamePackage/entidades"/>
+	<classpathentry kind="src" path="src/gamePackage/entidades/acuaticas"/>
+	<classpathentry kind="src" path="src/gamePackage/entidades/aereas"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
